@@ -5,7 +5,7 @@ public class While {
 		int i = 1;
 		
 		while (i < 10) {
-			System.out.println("Olha eu aqui pela " + i + "ª VEZ!");
+			
 			i++;
 			
 		
