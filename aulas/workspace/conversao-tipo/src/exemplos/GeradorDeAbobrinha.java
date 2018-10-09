@@ -12,7 +12,16 @@ public static void main(String[] args) {
 								 {"na", "", "com", ""},
 								 {"você", "", "nós", ""}};
 	
-		nomes[0] = "Bode";
+		for (int i = 0; i < matrizPalavras.length; i++) {
+			
+			
+			
+			
+			for (int j = 0; j < matrizPalavras.length; j++) {
+				
+			}
+			
+		}
 	
 		
 		
