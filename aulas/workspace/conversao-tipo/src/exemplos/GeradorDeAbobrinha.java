@@ -12,9 +12,8 @@ public static void main(String[] args) {
 								 {"na", "", "com", ""},
 								 {"você", "", "nós", ""}};
 	
-		for (int i = 0; i < matrizPalavras.length; i++) {
-			
-			
+		for (int i = 1; i < matrizPalavras.length; i++) {
+			System.out.println(matrizPalavras);
 			
 			
 			for (int j = 0; j < matrizPalavras.length; j++) {
