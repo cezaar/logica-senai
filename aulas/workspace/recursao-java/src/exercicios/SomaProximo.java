@@ -13,6 +13,7 @@ public class SomaProximo {
 			System.out.print(max + " = ");
 			return max;			
 		} else {
+			
 			System.out.print(max + " + ");
 			return max + somar(--max);
 		}
