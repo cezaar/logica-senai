@@ -11,7 +11,7 @@ public static void main(String[] args) {
 	
 	 return 9;
 	 
-	 return Fibonacci(9-1) + Fibonacci(9-2);
+	
  }
 	
 	 
